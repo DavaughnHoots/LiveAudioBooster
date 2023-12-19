@@ -10,16 +10,20 @@ Real-time waveform visualization.
 Customizable sampling rate and channel configuration.
 Intuitive user interface with tooltips and help section.
 Compatible with virtual audio cables.
+
 Installation
 To install Live Audio Booster, follow these steps:
 
 Clone the repository:
+
 git clone https://github.com/DavaughnHoots/LiveAudioBooster
+
 Install the required dependencies:
 
 pip install -r requirements.txt
 
 Usage
+
 To use Live Audio Booster:
 
 Launch the application.
